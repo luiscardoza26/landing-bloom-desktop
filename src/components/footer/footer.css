@@ -1,0 +1,484 @@
+footer {
+    background: var(--color-footer);
+    position: relative;
+    height: 325px;
+    /* margin-bottom: -80rem; */
+    margin-top: 35rem;
+}
+
+.permalinks1 {
+    margin-top: 3rem;
+    font-size: 1.4rem;
+    float: right;
+    margin-right: 1687px;
+}
+
+.permalinks1 a {
+    color: var(--color-bg-variant);
+}
+
+.permalinks2 {
+    margin-top: -9.5rem;
+    float: right;
+    font-size: 1.4rem;
+    margin-right: 1475px;
+}
+
+.permalinks2 a {
+    color: var(--color-bg-variant);
+}
+
+.separador {
+    background: #000;
+    width: 1px;
+    float: left;
+    height: 78%;
+    margin-left: 260px;
+    margin-top: -10rem;
+}
+
+.mini-form {
+    margin-top: -9.5rem;
+    float: right;
+    margin-right: 775px;
+}
+
+.mini-form h2 {
+    color: var(--color-bg-variant);
+}
+.mini-form input {
+    margin-top: 1.5rem;
+    width: 345px;
+    height: 33px;
+    text-indent: 8px;
+    border-radius: 0.5rem;
+    color: var(--color-bg-variant);
+}
+
+.mini-form a {
+    background: var(--color-primary);
+    color: var(--color-bg);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+    width: 131px;
+    height: 27px;
+    margin-left: 105px;
+    border-radius: 1rem;
+    opacity: 1;
+    transition: var(--transition);
+}
+
+.mini-form a:hover {
+    background: var(--color-bg);
+    border: 1px solid var(--color-primary);
+    color: var(--color-primary);
+}
+
+.politica {
+    float: right;
+    color: var(--color-bg-variant);
+    margin-top: 2rem;
+    margin-right: -380px;
+    font-size: 10px;
+}
+
+.politica a {
+    color: var(--color-primary);
+}
+
+.politica a:hover {
+    color: var(--color-primary);
+}
+
+.derechos {
+    float: right;
+    color: var(--color-bg-variant);
+    margin-top: 6rem;
+    margin-right: -400px;
+    font-size: 11px;
+}
+
+.footer__socials h2 {
+    font-size: 18px;
+    color: var(--color-bg-variant);
+    margin-right: -715px;
+}
+
+.footer__socials {
+    display: flex;
+    justify-content: center;
+    margin-top: -9rem;
+    margin-right: -1125px;
+    gap: 1rem;
+    float: right;
+    user-select: none;
+}
+
+.footer__socials .icon {
+    width: 39px;
+    height: 39px;
+}
+
+.footer__socials a {
+    color: var(--color-bg-variant);
+    /* padding: 0.8rem; */
+    margin-top: 3.6rem;
+    margin-left: 408px;
+    margin-right: -355px;
+}
+
+.footer__socials a:hover {
+    color: var(--color-primary);
+}
+
+.footer__socials h4 {
+    color: var(--color-bg-variant);
+    margin-top: 12rem;
+    margin-right: 25px;
+    font-size: 21px;
+}
+
+.footer__socials img {
+    margin-top: 12rem;
+    margin-right: 128px;
+    width: 132px;
+    height: 39px;
+}
+
+.footer__copyright {
+    margin-top: 110px;
+    margin-bottom: 4rem;
+    color: var(--color-primary-variant);
+    user-select: none;
+}
+
+
+/* ============================= MEDIA QUERIES (MEDIUM DEVICES) ============================== */
+@media screen and (max-width: 1024px) {
+    footer {
+        background: var(--color-footer);
+        position: relative;
+        height: 325px;
+        /* margin-bottom: -80rem; */
+        margin-top: 35rem;
+    }
+    
+    .permalinks1 {
+        margin-top: 3rem;
+        font-size: 1.4rem;
+        float: right;
+        margin-right: 1687px;
+    }
+    
+    .permalinks1 a {
+        color: var(--color-bg-variant);
+    }
+    
+    .permalinks2 {
+        margin-top: -9.5rem;
+        float: right;
+        font-size: 1.4rem;
+        margin-right: 1475px;
+    }
+    
+    .permalinks2 a {
+        color: var(--color-bg-variant);
+    }
+    
+    .separador {
+        background: #000;
+        width: 1px;
+        float: left;
+        height: 78%;
+        margin-left: 260px;
+        margin-top: -10rem;
+    }
+    
+    .mini-form {
+        margin-top: -9.5rem;
+        float: right;
+        margin-right: 775px;
+    }
+    
+    .mini-form h2 {
+        color: var(--color-bg-variant);
+    }
+    .mini-form input {
+        margin-top: 1.5rem;
+        width: 345px;
+        height: 33px;
+        text-indent: 8px;
+        border-radius: 0.5rem;
+        color: var(--color-bg-variant);
+    }
+    
+    .mini-form a {
+        background: var(--color-primary);
+        color: var(--color-bg);
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-top: 2rem;
+        width: 131px;
+        height: 27px;
+        margin-left: 105px;
+        border-radius: 1rem;
+        opacity: 1;
+        transition: var(--transition);
+    }
+    
+    .mini-form a:hover {
+        background: var(--color-bg);
+        border: 1px solid var(--color-primary);
+        color: var(--color-primary);
+    }
+    
+    .politica {
+        float: right;
+        color: var(--color-bg-variant);
+        margin-top: 2rem;
+        margin-right: -380px;
+        font-size: 10px;
+    }
+    
+    .politica a {
+        color: var(--color-primary);
+    }
+    
+    .politica a:hover {
+        color: var(--color-primary);
+    }
+    
+    .derechos {
+        float: right;
+        color: var(--color-bg-variant);
+        margin-top: 6rem;
+        margin-right: -400px;
+        font-size: 11px;
+    }
+    
+    .footer__socials h2 {
+        font-size: 18px;
+        color: var(--color-bg-variant);
+        margin-right: -715px;
+    }
+    
+    .footer__socials {
+        display: flex;
+        justify-content: center;
+        margin-top: -9rem;
+        margin-right: -1125px;
+        gap: 1rem;
+        float: right;
+        user-select: none;
+    }
+    
+    .footer__socials .icon {
+        width: 39px;
+        height: 39px;
+    }
+    
+    .footer__socials a {
+        color: var(--color-bg-variant);
+        /* padding: 0.8rem; */
+        margin-top: 3.6rem;
+        margin-left: 408px;
+        margin-right: -355px;
+    }
+    
+    .footer__socials a:hover {
+        color: var(--color-primary);
+    }
+    
+    .footer__socials h4 {
+        color: var(--color-bg-variant);
+        margin-top: 12rem;
+        margin-right: 25px;
+        font-size: 21px;
+    }
+    
+    .footer__socials img {
+        margin-top: 12rem;
+        margin-right: 128px;
+        width: 132px;
+        height: 39px;
+    }
+    
+    .footer__copyright {
+        margin-top: 110px;
+        margin-bottom: 4rem;
+        color: var(--color-primary-variant);
+        user-select: none;
+    }
+
+}
+
+/* ============================= MEDIA QUERIES (SmallDEVICES) ============================== */
+@media screen and (max-width: 600px) {
+
+    footer {
+        background: var(--color-footer);
+        position: relative;
+        height: 795px;
+        /* width: auto; */
+        /* margin-bottom: -80rem; */
+        margin-top: 45rem;
+    }
+    
+    .permalinks1 {
+        margin-top: 2rem;
+        font-size: 1.2rem;
+        float: right;
+        margin-right: 227px;
+    }
+    
+    .permalinks1 a {
+        color: var(--color-bg-variant);
+    }
+    
+    .permalinks2 {
+        margin-top: -8.5rem;
+        float: right;
+        font-size: 1.2rem;
+        margin-right: 45px;
+    }
+    
+    .permalinks2 a {
+        color: var(--color-bg-variant);
+    }
+    
+    .separador {
+        background: #000;
+        width: 1px;
+        float: left;
+        height: 18%;
+        margin-left: 210px;
+        margin-top: -8rem;
+    }
+    
+    .mini-form {
+        margin-top: 2rem;
+        float: right;
+        margin-right: 35px;
+    }
+    
+    .mini-form h2 {
+        color: var(--color-bg-variant);
+    }
+    .mini-form input {
+        margin-top: 1.5rem;
+        width: 345px;
+        height: 33px;
+        text-indent: 8px;
+        border-radius: 0.5rem;
+        color: var(--color-bg-variant);
+    }
+    
+    .mini-form a {
+        background: var(--color-primary);
+        color: var(--color-bg);
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-top: 2rem;
+        width: 131px;
+        height: 27px;
+        margin-left: 105px;
+        border-radius: 1rem;
+        opacity: 1;
+        transition: var(--transition);
+    }
+    
+    .mini-form a:hover {
+        background: var(--color-bg);
+        border: 1px solid var(--color-primary);
+        color: var(--color-primary);
+    }
+    
+    .politica {
+        float: right;
+        color: var(--color-bg-variant);
+        margin-top: 2rem;
+        margin-right: 75px;
+        font-size: 10px;
+    }
+
+    .politica .sub-politica {
+        display: flex;
+        margin-left: 55px;
+        margin-top: 0.2rem;
+    }
+    
+    .politica a {
+        color: var(--color-primary);
+    }
+    
+    .politica a:hover {
+        color: var(--color-primary);
+    }
+    
+    .derechos {
+        float: right;
+        color: var(--color-bg-variant);
+        margin-top: 20rem;
+        margin-right: 35px;
+        font-size: 11px;
+    }
+    
+    .footer__socials h2 {
+        font-size: 18px;
+        color: var(--color-bg-variant);
+        margin-top: -15rem;
+        margin-right: -520px;
+    }
+    
+    .footer__socials {
+        display: flex;
+        justify-content: center;
+        margin-top: -4rem;
+        margin-right: -125px;
+        gap: 1rem;
+        float: right;
+        user-select: none;
+    }
+    
+    .footer__socials .icon {
+        width: 35px;
+        height: 35px;
+    }
+    
+    .footer__socials a {
+        color: var(--color-bg-variant);
+        /* padding: 0.8rem; */
+        margin-top: -10rem;
+        margin-left: 270px;
+        margin-right: -265px;
+    }
+    
+    .footer__socials a:hover {
+        color: var(--color-primary);
+    }
+    
+    .footer__socials h4 {
+        color: var(--color-bg-variant);
+        margin-top: -5rem;
+        margin-right: 10px;
+        font-size: 21px;
+    }
+    
+    .footer__socials img {
+        margin-top: -5rem;
+        margin-right: 188px;
+        width: 132px;
+        height: 39px;
+    }
+    
+    .footer__copyright {
+        margin-top: 110px;
+        margin-bottom: 4rem;
+        color: var(--color-primary-variant);
+        user-select: none;
+    }
+}
