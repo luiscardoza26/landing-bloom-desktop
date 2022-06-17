@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+Para el diseño movile, utilice como referencia tres dispositivos (iphone xr, samsung galaxy s20 ultra, samsung galaxy A51/71)
+
+el proyecto cuenta con el llmado y consumo a la api, sin embargo por problemas tecnicos y personales, la vista del formulario no la logre implementar.
+
+espero sea de agrado el resultado, y el esfuerzo puesto en la prueba.
+
+Agradezco de antemano la oportunidad y quedo atento a cualquier duda e inquietud.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
